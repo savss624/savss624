@@ -50,4 +50,12 @@
 
 ## 🔥 Contributions:
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EeshanDutta007&theme=dark" height = '150' width='400'/>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=savss624&theme=react&background=0d1117">
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=savss624&theme=react-dark">
+  </a>
+</p>
