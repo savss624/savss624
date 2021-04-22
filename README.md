@@ -1,6 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey Folks, I'm Parth Srivastava!
 ![savss624's github stats](https://github-readme-stats.vercel.app/api?username=savss624&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savss624)](https://github.com/savss624/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savss624&show_icons=true&theme=tokyonight)](https://github.com/savss624/github-readme-stats)
 
 ### Find me elsewhere 🌎
 
