@@ -17,8 +17,8 @@
 
 You can find me on [![LinkedIn][3.2]][3], or on [![Twitter][1.2]][1].
 
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[1.2]: https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true
+[2.2]: https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true
 
 [1]: hhttps://twitter.com/ParthSr50286246
 [2]: https://www.linkedin.com/in/parth-srivastava-949742192/
