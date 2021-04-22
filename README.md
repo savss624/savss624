@@ -1,4 +1,15 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey Folks, I'm Parth Srivastava!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<br>
+<h3 align="center">
+  Hello folkd, I'm Parth 👋
+</h3>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/parth-srivastava-949742192/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://stackoverflow.com/users/15485987/parth-srivastava" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/savss_624/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
 
   ---
 
@@ -15,10 +26,19 @@
 
   ---
   
-![savss624's github stats](https://github-readme-stats.vercel.app/api?username=savss624&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savss624&show_icons=true&theme=tokyonight)](https://github.com/savss624/github-readme-stats)
+## Achievements
 
+1. HackYuva Hackathon 2020 Winner.
+2. Winners of SyntHacks 2020 ( Best Health Hack ).
+3. Winners of Codestellation 2020 ( Best Mobile/Web App ).
+4. Geekathon 2020 Winner
+5. Special Mention Award in SRM Hackathon 2021
+6. Honourable Mention Award in Hacktrix Hackathon
+7. Project Mentioned in EchoAr Inspiration Page - ThinkArt.
+  
   ---
+  
+## Github Stats
 
-You can find me on 
-[![Linkedin Badge](https://img.shields.io/badge/-parth_srivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-srivastava-949742192/)](https://www.linkedin.com/in/parth-srivastava-949742192/), or on [![Instagram Badge](https://img.shields.io/badge/-savss_624-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/savss_624/)](https://www.instagram.com/savss_624/).
+![savss624's github stats](https://github-readme-stats.vercel.app/api?username=savss624&show_icons=true&theme=tokyonight) <br /><br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savss624&hide=TeX&layout=compact&show_icons=true&theme=tokyonight)
