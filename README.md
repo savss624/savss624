@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 <br>
 <h3 align="center">
-  Hello folkd, I'm Parth 👋
+  Hello folks, I'm Parth 👋
 </h3>
 <h5 align="center">
   <code>
