@@ -15,6 +15,10 @@
 
   ---
 
-### Find me elsewhere 🌎
+You can find me on [![LinkedIn][3.2]][3], or on [![Twitter][1.2]][1].
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/parth-srivastava-949742192/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/ParthSr50286246)
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[1]: hhttps://twitter.com/ParthSr50286246
+[2]: https://www.linkedin.com/in/parth-srivastava-949742192/
