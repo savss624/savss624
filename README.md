@@ -2,11 +2,16 @@
 
   ---
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+## ⚡ Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
   ---
   
@@ -15,10 +20,5 @@
 
   ---
 
-You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1].
-
-[1.2]: icons/twitter.png
-[2.2]: icons/linkedin.png
-
-[1]: hhttps://twitter.com/ParthSr50286246
-[2]: https://www.linkedin.com/in/parth-srivastava-949742192/
+You can find me on 
+[![Linkedin Badge](https://img.shields.io/badge/-parth_srivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-srivastava-949742192/)](https://www.linkedin.com/in/parth-srivastava-949742192/), or on [![Instagram Badge](https://img.shields.io/badge/-savss_624-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/savss_624/)](https://www.instagram.com/savss_624/).
