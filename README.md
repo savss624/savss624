@@ -2,7 +2,10 @@
 <br>
 <h3 align="center">
   Hello folks, I'm Parth 👋
+  <br>A Software Developer and A Data Scientist
+  <br>Currently Doing my B.Tech at SRM University Chennai, India
 </h3>
+
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/parth-srivastava-949742192/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -54,6 +57,8 @@
   </a>
   <br>
 </p>
+
+  ---
 
 ## 🔥 Contributions:
 
