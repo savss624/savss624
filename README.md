@@ -2,7 +2,7 @@
 <br>
 <h3 align="center">
   Hello folks, I'm Parth 👋
-  <br>A Software Developer and A Data Scientist
+  <br>An App Developer and A Data Scientist
   <br>Currently Doing my B.Tech at SRM University Chennai, India
 </h3>
 
