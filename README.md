@@ -45,8 +45,15 @@
   
 ## 📊 Stats:
 
-![savss624's github stats](https://github-readme-stats.vercel.app/api?username=savss624&show_icons=true&theme=tokyonight) <br /><br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savss624&hide=TeX&layout=compact&show_icons=true&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=savss624&show_icons=true&theme=react&background=0d1117" height="165">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savss624&layout=compact&theme=react&background=0d1117"  height="165">
+  </a>
+  <br>
+</p>
 
 ## 🔥 Contributions:
 
