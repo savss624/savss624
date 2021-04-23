@@ -41,7 +41,7 @@
 4. Geekathon 2020 Winner
 5. Special Mention Award in SRM Hackathon 2021
 6. Honourable Mention Award in Hacktrix Hackathon
-7. Project Mentioned in EchoAr Inspiration Page - <a href="https://devfolio.co/submissions/thinkart-f364" target="_blank">ThinkArt</a>.
+7. Project Mentioned in <a href="https://devfolio.co/submissions/thinkart-f364">EchoAr Inspiration Page</a> - ThinkArt.
   
   ---
   
