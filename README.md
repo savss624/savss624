@@ -2,8 +2,7 @@
 <br>
 <h3 align="center">
   Hello folks, I'm Parth 👋
-  <br>An App Developer and A Data Scientist
-  <br>Currently Doing my B.Tech at SRM University Chennai, India
+  <br>I am a Mobile App Developer and Backend Engineer
 </h3>
 
 <h5 align="center">
