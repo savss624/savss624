@@ -74,6 +74,6 @@
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=savss624&theme=react-dark">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=savss624&theme=react-dark">
   </a>
 </p>
