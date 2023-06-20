@@ -6,7 +6,10 @@
 </h3>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/parth-srivastava-949742192/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+  <a href="https://www.linkedin.com/in/parth-srivastava-949742192/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@savss624" title="Medium"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.youtube.com/@__Parth__" title="YouTube"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a href="https://twitter.com/savss624" title="Twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </h5>
 <br>
 
